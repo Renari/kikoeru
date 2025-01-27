@@ -53,7 +53,7 @@
     "html-webpack-plugin": "^5.6.3",
     "inferno": "^9",
     "inferno-component": "^7",
-    "inferno-create-element": "^8",
+    "inferno-create-element": "^9",
     "inferno-redux": "^8.2.3",
     "inferno-router": "^8",
     "less": "^4.2.2",
