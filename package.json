@@ -54,7 +54,7 @@
     "inferno": "^9",
     "inferno-component": "^7",
     "inferno-create-element": "^9",
-    "inferno-redux": "^8.2.3",
+    "inferno-redux": "^9.0.1",
     "inferno-router": "^8",
     "less": "^4.2.2",
     "less-loader": "^12.2.0",
