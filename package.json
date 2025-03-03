@@ -36,7 +36,7 @@
     "@babel/preset-env": "^7.26.9",
     "@reduxjs/toolkit": "^2.5.0",
     "babel-loader": "^9.2.1",
-    "babel-plugin-inferno": "^6.7.2",
+    "babel-plugin-inferno": "^6.8.3",
     "babel-polyfill": "^6.26.0",
     "clean-webpack-plugin": "^4.0.0",
     "concurrently": "^9.1.2",
