@@ -55,7 +55,7 @@
     "inferno-component": "^7",
     "inferno-create-element": "^9",
     "inferno-redux": "^9.0.1",
-    "inferno-router": "^8",
+    "inferno-router": "^9",
     "less": "^4.2.2",
     "less-loader": "^12.2.0",
     "mini-css-extract-plugin": "^2.9.2",
