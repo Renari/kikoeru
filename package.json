@@ -18,7 +18,7 @@
   "dependencies": {
     "@supercharge/promise-pool": "^3.2.0",
     "cross-env": "^7.0.3",
-    "express": "^4.21.2",
+    "express": "^5.1.0",
     "express-session": "^1.18.1",
     "htmlparser2": "^10.0.0",
     "knex": "^3.1.0",
