@@ -17,7 +17,7 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@supercharge/promise-pool": "^3.2.0",
-    "cross-env": "^10.0.0",
+    "cross-env": "^10.1.0",
     "express": "^5.1.0",
     "express-session": "^1.18.2",
     "htmlparser2": "^10.0.0",
