@@ -59,7 +59,7 @@
     "less": "^4.5.1",
     "less-loader": "^12.3.1",
     "mini-css-extract-plugin": "^2.10.0",
-    "nodemon": "^3.1.11",
+    "nodemon": "^3.1.14",
     "redux": "^5.0.1",
     "style-loader": "^4.0.0",
     "uikit": "^3.25.11",
