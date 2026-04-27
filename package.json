@@ -22,7 +22,7 @@
     "express-session": "^1.19.0",
     "htmlparser2": "^12.0.0",
     "knex": "^3.2.9",
-    "memorystore": "^1.6.7",
+    "memorystore": "^1.6.8",
     "natural-orderby": "^5.0.0",
     "node-fetch": "2.x",
     "recursive-readdir": "^2.2.3",
