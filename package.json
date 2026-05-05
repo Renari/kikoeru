@@ -21,7 +21,7 @@
     "express": "^5.2.1",
     "express-session": "^1.19.0",
     "htmlparser2": "^12.0.0",
-    "knex": "^3.2.9",
+    "knex": "^3.2.10",
     "memorystore": "^1.6.8",
     "natural-orderby": "^5.0.0",
     "node-fetch": "2.x",
