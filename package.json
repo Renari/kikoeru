@@ -65,8 +65,8 @@
     "uikit": "^3.25.17",
     "url-loader": "^4.1.1",
     "webpack": "^5.107.2",
-    "webpack-cli": "^7.0.3",
-    "webpack-dev-server": "^5.2.5"
+    "webpack-cli": "^7.2.1",
+    "webpack-dev-server": "^6.0.0"
   },
   "release": {
     "plugins": [
